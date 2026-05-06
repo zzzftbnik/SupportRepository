@@ -10,7 +10,7 @@ This repository is the public support center for `CalcuSnapVault`.
 
 ## Contact
 
-- Support email: `zzzftbnik@icloud.com`
+- Support email: `zzzftbnik@gmail.com`
 - Typical response time: `1-2 business days`
 
 ## What This Repo Is For
