@@ -4,7 +4,7 @@ Welcome to the official support page for `CalcuSnapVault`.
 
 ## Contact
 
-- Support email: `zzzftbnik@icloud.com`
+- Support email: `zzzftbnik@gmail.com`
 - Response time: `1-2 business days`
 
 ## Support Links
