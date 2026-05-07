@@ -1,22 +1,21 @@
-# CalcuSnapVault Support Center
+# CalcuSnapVault Support
 
-This repository is the public support center for `CalcuSnapVault`.
-
-## Start Here
-
-- Support guide: [SUPPORT.md](./SUPPORT.md)
-- Frequently asked questions: [FAQ.md](./FAQ.md)
-- Privacy policy: [PRIVACY_POLICY.md](./PRIVACY_POLICY.md)
+Welcome to the official support page for `CalcuSnapVault`.
 
 ## Contact
 
-- Support email: `zzzftbnik@gmail.com`
-- Typical response time: `1-2 business days`
+- Support email: `zzzftbnik@icloud.com`
+- Response time: `1-2 business days`
 
-## What This Repo Is For
+## Support Links
 
-- App support and troubleshooting
-- Unlock and vault access help
-- Purchase restoration help
+- Support guide: [SUPPORT.md](./SUPPORT.md)
+- Privacy policy: [PRIVACY_POLICY.md](./PRIVACY_POLICY.md)
+
+## Help With
+
+- Unlocking the vault
+- Restoring Premium purchases
+- Managing security breach photos
+- Resetting the vault
 - Privacy questions
-- Security breach photo questions

@@ -1,44 +1,44 @@
-# CalcuSnapVault Support
+# CalcuSnapVault Support Guide
 
-If you need help with `CalcuSnapVault`, use the information below.
+If you need help with `CalcuSnapVault`, use this page.
 
 ## Contact Support
 
-- Email: `zzzftbnik@icloud.com`
-- Include your device model, iOS version, and a short description of the problem
+Email `zzzftbnik@icloud.com` and include:
 
-## Common Support Topics
+- Your device model
+- Your iOS version
+- A short description of the issue
 
-### Unlock Issues
+## Unlocking the Vault
 
-1. Enter your PIN on the calculator keypad.
-2. Tap `=`.
-3. If Face ID is enabled, try again using biometrics.
-4. If the app locked after being covered or put down, reopen it and unlock again.
+1. Open `CalcuSnapVault`.
+2. Enter your PIN on the calculator screen.
+3. Tap `=`.
+4. If Face ID is enabled, you can also unlock with biometrics.
 
-### Missing Premium Access
+## Restoring Premium
 
 1. Open the app.
 2. Go to `Settings`.
 3. Tap `Restore Purchases`.
-4. Wait for the restore check to finish.
+4. Wait for the restore to complete.
 
-### Security Breach Photos
+## Security Breach Photos
 
 1. Open `Settings`.
-2. Go to `Security Breach Photos`.
-3. View or clear saved breach photos from there.
+2. Tap `Security Breach Photos`.
+3. View or clear saved photos there.
 
-### Resetting the Vault
+## Resetting the Vault
 
 1. Open `Settings`.
 2. Scroll to `Reset`.
 3. Tap `Reset Vault`.
-4. Confirm the reset.
+4. Confirm the action.
 
-Important:
-This permanently deletes stored vault content on the device.
+Resetting the vault permanently removes stored vault content from the device.
 
 ## Privacy Questions
 
-For privacy-related questions, see [PRIVACY_POLICY.md](./PRIVACY_POLICY.md) or email `zzzftbnik@icloud.com`.
+For privacy-related questions, read [PRIVACY_POLICY.md](./PRIVACY_POLICY.md) or email `zzzftbnik@icloud.com`.
