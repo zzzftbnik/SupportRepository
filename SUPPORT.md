@@ -4,7 +4,7 @@ If you need help with `CalcuSnapVault`, use this page.
 
 ## Contact Support
 
-Email `zzzftbnik@icloud.com` and include:
+Email `zzzftbnik@gmail.com` and include:
 
 - Your device model
 - Your iOS version
