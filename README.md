@@ -1,21 +1,13 @@
-# CalcuSnapVault Support
+# LunoVault Support
 
-Welcome to the official support page for `CalcuSnapVault`.
+Official support and privacy resources for `LunoVault`.
+
+## Links
+
+- Support page: [SUPPORT.html](./SUPPORT.html)
+- Privacy policy: [PRIVACY_POLICY.html](./PRIVACY_POLICY.html)
 
 ## Contact
 
-- Support email: `zzzftbnik@gmail.com`
+- Support email: `zzzftbnik@icloud.com`
 - Response time: `1-2 business days`
-
-## Support Links
-
-- Support guide: [SUPPORT.md](./SUPPORT.md)
-- Privacy policy: [PRIVACY_POLICY.md](./PRIVACY_POLICY.md)
-
-## Help With
-
-- Unlocking the vault
-- Restoring Premium purchases
-- Managing security breach photos
-- Resetting the vault
-- Privacy questions
